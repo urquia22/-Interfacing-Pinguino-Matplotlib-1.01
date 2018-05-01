@@ -19,3 +19,5 @@ Pinguino example to graph analog signal read on pin 13 of the penguin with the m
 # Note**
 pynguino.pde was compiled in the IDE 9.05, since this version of the library gives error when compiling in the IDE of the last versions, this version of pynguino.pde is more efficient in this case than the last version of the library.
 in the AnalogReadSerialMatplotlib.py application use the cdc-8bit.pde and the pynguino-2.0 library, but here the communication process is slower, for this reason I decided to try the old version of pynguino and the Pinguino IDE 9.05.
+
+**you can download the ide 9.05 version from here http://forja.softwarelibre.gob.ve/frs/?group_id=78 .
